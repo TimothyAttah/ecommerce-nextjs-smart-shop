@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Smart Shop",
+  title: "ShopSphere",
   description: "Buy all kinds of products.",
 };
 
